@@ -11,8 +11,8 @@ by Dan Kahan
 [Non-fungible token standards](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_standards) — from Ethereum to non-Ethereum standards 
 by Devin Finzer
 
-[What is ERC-721? — non-technical explanation of how the original standard powering NFTs on blockchains works
-by [William Entriken](https://fulldecent.blogspot.com/2018/06/nontechnical-what-is-erc-721.html)
+[What is ERC-721?](https://fulldecent.blogspot.com/2018/06/nontechnical-what-is-erc-721.html) — non-technical explanation of how the original standard powering NFTs on blockchains works
+by William Entriken
 
 [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721) — powering unique, rare, collectible tokens on the Ethereum blockchain
 
