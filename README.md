@@ -1,10 +1,8 @@
 # awesome-NFT
 
-Source:[a16z NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/)
 
-_**Building Blocks & Technical Foundations
-_**
-
+**Building Blocks & Technical Foundations
+**
 [NFT metadata — on-chain, off-chain, storage, more 
 ](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata) by Devin Finzer
 [
@@ -25,3 +23,6 @@ by Alex Pruden and Sonal Chokshi
 [Crypto Wants to Be Seen](https://thedefiant.io/crypto-wants-to-be-seen-op-ed-by-kayvon-tehranian/ 
 ) — experiencing crypto in ways that enable creators to master it and be immersed in core concepts
 by Kayvon Tehranian
+
+
+Source [a16z NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/)
