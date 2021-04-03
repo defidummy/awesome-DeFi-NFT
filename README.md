@@ -1,6 +1,6 @@
 # awesome-NFT
 
-**Building Blocks & Technical Foundations
+**Building Blocks & Technical Foundations**
 
 [NFT metadata — on-chain, off-chain, storage, more 
 ](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata) by Devin Finzer
