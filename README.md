@@ -1,17 +1,18 @@
 # awesome-NFT
 
-[a16z NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/)
+Source:[a16z NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/)
 
 _**Building Blocks & Technical Foundations
 _**
-##NFT metadata — on-chain, off-chain, storage, more 
-by [Devin Finzer](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata )
 
-Do You Really Own Your NFT? — data storage, URLs vs IPFS, off-chain, more
-by [Dan Kahan](https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/ )
-
-Non-fungible token standards — from Ethereum to non-Ethereum standards 
-by [Devin Finzer](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_standards )
+[NFT metadata — on-chain, off-chain, storage, more 
+](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata) by Devin Finzer
+[
+Do You Really Own Your NFT?](https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/ ) — data storage, URLs vs IPFS, off-chain, more
+by Dan Kahan
+[
+Non-fungible token standards](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_standards) — from Ethereum to non-Ethereum standards 
+by Devin Finzer
 
 What is ERC-721? — non-technical explanation of how the original standard powering NFTs on blockchains works
 by [William Entriken](https://fulldecent.blogspot.com/2018/06/nontechnical-what-is-erc-721.html)
