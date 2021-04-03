@@ -4,10 +4,10 @@
 
 [NFT metadata — on-chain, off-chain, storage, more 
 ](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata) by Devin Finzer
-[
+
 Do You Really Own Your NFT?](https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/ ) — data storage, URLs vs IPFS, off-chain, more
 by Dan Kahan
-[
+
 Non-fungible token standards](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_standards) — from Ethereum to non-Ethereum standards 
 by Devin Finzer
 
@@ -24,4 +24,4 @@ by Alex Pruden and Sonal Chokshi
 by Kayvon Tehranian
 
 
-Source [a16z NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/)
+source [a16z NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/)
