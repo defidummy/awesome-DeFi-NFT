@@ -1,7 +1,7 @@
 
 **DeFi**
 
-**ETH Vulnerabilities and Exploits**
+**ETH Vulnerabilities and Exploits Repo**
 
 [All the Exploits](https://github.com/ethereumvex)
 
