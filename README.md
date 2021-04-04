@@ -1,8 +1,11 @@
 
-DeFi
-
+**DeFi****
 ETH Vulnerabilities and Exploits
+**
 
+**
+ETH Vulnerabilities and Exploits
+**
 [All the Exploits](https://github.com/ethereumvex)
 
 [Wrecking sandwich traders](https://github.com/Defi-Cartel/salmonella)
@@ -17,7 +20,7 @@ Yield Farming
 Algorithmic Stable Coin
 
 
-NFT
+**NFT**
 **Building Blocks & Technical Foundations**
 
 [NFT metadata — on-chain, off-chain, storage, more 
@@ -34,7 +37,7 @@ by William Entriken
 
 [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721) — powering unique, rare, collectible tokens on the Ethereum blockchain
 
-Others
+**Others**
 
 [Crypto Glossary: Cryptocurrencies & Blockchains](https://a16z.com/2019/11/08/crypto-glossary/) — key concepts and terms to know that relate to DeFi and NFTs (cryptography, proof of stake, more)
 by Alex Pruden and Sonal Chokshi
