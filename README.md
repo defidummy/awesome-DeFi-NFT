@@ -1,23 +1,41 @@
-
+Fpr Developers
 **DeFi**
 
-**Fun Repositories**
+**1. Algorithmic Stable Coin**
+
+**2. DEX**
+
+**3. Lending**
+
+**4. Insurance**
+
+**5. Oracles**
+
+**6. Prediction Market**
+
+** Repositories**
 
 [Reconstruction Exploits](https://github.com/ethereumvex)
 
 [Wrecking sandwich traders](https://github.com/Defi-Cartel/salmonella)
 
 
-**Architecture**
 
-**Yield Farming**
+Researchers
 
-**Algorithmic Stable Coin**
+[An analysis of Uniswap markets](https://arxiv.org/pdf/1911.03380.pdf)
+
+[Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/pdf/2003.10001.pdf) by Guillermo Angeris and Tarun Chitra
+
+
+
 
 
 **NFT**
 
 **Building Blocks & Technical Foundations**
+
+**Architecture**
 
 [NFT metadata — on-chain, off-chain, storage, more 
 ](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata) by Devin Finzer
@@ -43,3 +61,7 @@ by Alex Pruden and Sonal Chokshi
 by Kayvon Tehranian
 
 source [a16z NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/)
+
+https://berkeley-defi.github.io/
+
+
