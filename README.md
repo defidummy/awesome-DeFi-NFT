@@ -32,7 +32,7 @@
 
 [What is ERC-721?](https://fulldecent.blogspot.com/2018/06/nontechnical-what-is-erc-721.html) — non-technical explanation of how the original standard powering NFTs on blockchains works by William Entriken
 
-[ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721) — powering unique, rare, collectible tokens on the Ethereum blockchain
+[EIP-721: ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721) — powering unique, rare, collectible tokens on the Ethereum blockchain
 
 
 **Researchers**
