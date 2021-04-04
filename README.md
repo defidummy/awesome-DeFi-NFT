@@ -1,11 +1,8 @@
 
-**DeFi****
-ETH Vulnerabilities and Exploits
-**
+**DeFi**
 
-**
-ETH Vulnerabilities and Exploits
-**
+**ETH Vulnerabilities and Exploits**
+
 [All the Exploits](https://github.com/ethereumvex)
 
 [Wrecking sandwich traders](https://github.com/Defi-Cartel/salmonella)
