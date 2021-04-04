@@ -1,6 +1,17 @@
 
 DeFi
 
+ETH Vulnerabilities and Exploits
+
+[All the Exploits](uhttps://github.com/ethereumvex)
+
+[Wrecking sandwich traders](https://github.com/Defi-Cartel/salmonella)
+
+[SushiMaker bridge exploit](https://github.com/ethereumvex/SushiMaker-bridge-exploit)
+
+
+
+
 Yield Farming
 
 Algorithmic Stable Coin
