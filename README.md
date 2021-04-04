@@ -1,4 +1,3 @@
-Fpr Developers
 **DeFi**
 
 **1. Algorithmic Stable Coin**
