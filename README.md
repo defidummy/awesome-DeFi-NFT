@@ -1,4 +1,12 @@
 
+DeFi
+
+Yield Farming
+
+Algorithmic Stable Coin
+
+
+NFT
 **Building Blocks & Technical Foundations**
 
 [NFT metadata — on-chain, off-chain, storage, more 
@@ -15,14 +23,13 @@ by William Entriken
 
 [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721) — powering unique, rare, collectible tokens on the Ethereum blockchain
 
-[Crypto Glossary: Cryptocurrencies & Blockchains](https://a16z.com/2019/11/08/crypto-glossary/) — key concepts and terms to know that relate to NFTs (cryptography, proof of stake, more)
+Others
+
+[Crypto Glossary: Cryptocurrencies & Blockchains](https://a16z.com/2019/11/08/crypto-glossary/) — key concepts and terms to know that relate to DeFi and NFTs (cryptography, proof of stake, more)
 by Alex Pruden and Sonal Chokshi
 
 [Crypto Wants to Be Seen](https://thedefiant.io/crypto-wants-to-be-seen-op-ed-by-kayvon-tehranian/ 
 ) — experiencing crypto in ways that enable creators to master it and be immersed in core concepts
 by Kayvon Tehranian
-
-DEFi
-
 
 source [a16z NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/)
