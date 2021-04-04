@@ -19,17 +19,6 @@
 [Wrecking sandwich traders](https://github.com/Defi-Cartel/salmonella)
 
 
-
-Researchers
-
-[An analysis of Uniswap markets](https://arxiv.org/pdf/1911.03380.pdf)
-
-[Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/pdf/2003.10001.pdf) by Guillermo Angeris and Tarun Chitra
-
-
-
-
-
 **NFT**
 
 **Building Blocks & Technical Foundations**
@@ -49,6 +38,13 @@ by Devin Finzer
 by William Entriken
 
 [ERC-721 Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721) — powering unique, rare, collectible tokens on the Ethereum blockchain
+
+
+**Researchers**
+
+[An analysis of Uniswap markets](https://arxiv.org/pdf/1911.03380.pdf)
+
+[Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/pdf/2003.10001.pdf) by Guillermo Angeris and Tarun Chitra
 
 **Others**
 
