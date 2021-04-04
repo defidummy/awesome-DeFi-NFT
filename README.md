@@ -7,9 +7,6 @@
 
 [Wrecking sandwich traders](https://github.com/Defi-Cartel/salmonella)
 
-[SushiMaker bridge exploit](https://github.com/ethereumvex/SushiMaker-bridge-exploit)
-
-
 
 **Architecture**
 
