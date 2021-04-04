@@ -1,9 +1,9 @@
 
 **DeFi**
 
-**ETH Vulnerabilities and Exploits Repo**
+**Fun Repositories**
 
-[All the Exploits](https://github.com/ethereumvex)
+[Reconstruction Exploits](https://github.com/ethereumvex)
 
 [Wrecking sandwich traders](https://github.com/Defi-Cartel/salmonella)
 
@@ -11,10 +11,11 @@
 
 
 
+**Architecture**
 
-Yield Farming
+**Yield Farming**
 
-Algorithmic Stable Coin
+**Algorithmic Stable Coin**
 
 
 **NFT**
