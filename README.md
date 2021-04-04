@@ -3,7 +3,7 @@ DeFi
 
 ETH Vulnerabilities and Exploits
 
-[All the Exploits](uhttps://github.com/ethereumvex)
+[All the Exploits](https://github.com/ethereumvex)
 
 [Wrecking sandwich traders](https://github.com/Defi-Cartel/salmonella)
 
