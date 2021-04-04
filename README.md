@@ -18,6 +18,7 @@ Algorithmic Stable Coin
 
 
 **NFT**
+
 **Building Blocks & Technical Foundations**
 
 [NFT metadata — on-chain, off-chain, storage, more 
