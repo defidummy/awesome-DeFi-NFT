@@ -1,5 +1,6 @@
 **Awesome DeFi NFT Repos, Researches, and Blogs**
 
+The best way to start is start using protocols DeFi protocols such as AAVE (lending) and Uniswap(exchange). Get a metamask wallet, request eth from test net, interact with protocol via Aave and Uniswap UX. See the transactions on etherscan. 
 
 **DeFi**
 
