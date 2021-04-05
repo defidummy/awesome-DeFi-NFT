@@ -14,13 +14,9 @@
 
 ** Repositories**
 
-Reconstruction Exploits
+Reconstruction Exploits — [github.com](https://github.com/ethereumvex)
 
-https://github.com/ethereumvex
-
-Wrecking sandwich traders
-
-https://github.com/Defi-Cartel/salmonella
+Wrecking sandwich traders — [github.com](https://github.com/Defi-Cartel/salmonella)
 
 **NFT**
 
