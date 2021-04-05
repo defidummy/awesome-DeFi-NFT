@@ -20,6 +20,8 @@ Wrecking sandwich traders — [github.com](https://github.com/Defi-Cartel/salmon
 
 Rekt news — dark, entertaining — [rekt.eth.link](https://rekt.eth.link/)
 
+Flashbots — MEV RnD — [github.com](https://github.com/flashbots) 
+
 **NFT**
 
 **Architecture**
