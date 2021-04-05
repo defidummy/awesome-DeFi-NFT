@@ -60,13 +60,6 @@ Bitmex research blog — [bitmex.com](https://blog.bitmex.com)
 Ethereum Research forum - [ethresear.ch](https://ethresear.ch/top/weekly)
 
 
-ICO
-https://coinmarketcap.com/ico-calendar/
-
-https://twitter.com/polkastarter?s=21
-
-https://t.me/Degen101
-
 Tools
 Farming APY & Yield Info ]vfat.tools](https://vfat.tools/)
 
