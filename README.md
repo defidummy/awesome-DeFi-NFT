@@ -1,6 +1,6 @@
 **Awesome DeFi NFT Repos, Researches, and Blogs**
 
-The best way to start is to try using DeFi protocols likw AAVE(lending) and Uniswap(exchange). Get a metamask wallet, request eth from test net, interact with protocol via Aave and Uniswap UX. See the transactions on etherscan. 
+The best way to start is to try using DeFi protocols likw AAVE(lending) and Uniswap(exchange). Get a [metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) wallet, change your network to rinkeby testnet, request eth from [faucet](https://faucet.rinkeby.io/), interact with protocol Uniswap UX and AAVE (AAVE is on kovan testnet). See your transactions on etherscan. 
 
 **DeFi**
 
