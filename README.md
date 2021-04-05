@@ -12,7 +12,7 @@
 
 **6. Prediction Market**
 
-** Repositories**
+** DeFi Exploit and Vulnerbility**
 
 Reconstruction Exploits — [github.com](https://github.com/ethereumvex)
 
