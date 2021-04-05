@@ -23,7 +23,7 @@ Improved Price Oracles: Constant Function Market Makers by Guillermo Angeris and
 
 **6. Prediction Market**
 
-**Awesome Hacks**
+**Awesome Hacks and Exploits**
 
 Reconstruction Exploits — [github.com](https://github.com/ethereumvex)
 
