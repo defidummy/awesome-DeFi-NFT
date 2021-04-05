@@ -57,7 +57,7 @@ Telegram groups and bots — [telegram](https://t.me/ethfightclub/1386)
 
 Bitmex research blog — [bitmex.com](https://blog.bitmex.com)
 
-Ethereum Research forum - https://ethresear.ch/top/weekly
+Ethereum Research forum - [ethresear.ch](https://ethresear.ch/top/weekly)
 
 
 ICO
@@ -68,14 +68,14 @@ https://twitter.com/polkastarter?s=21
 https://t.me/Degen101
 
 Tools
-Farming APY & Yield Info https://vfat.tools/
+Farming APY & Yield Info ]vfat.tools](https://vfat.tools/)
 
 Visual
-sandbox for web3 https://youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi
+sandbox for web3 [youtube playlist](https://youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 
-Stories https://youtube.com/playlist?list=PLaDcID4s1KrqmUMJqLE9p28IyQxPYCf2B
+Stories — [youtube playlist](https://youtube.com/playlist?list=PLaDcID4s1KrqmUMJqLE9p28IyQxPYCf2B)
 
-High-level architecture overview https://www.youtube.com/c/Finematics/videos
+High-level architecture overview — [youtube playlist](https://www.youtube.com/c/Finematics/videos) 
 
 
 Crypto Glossary: Cryptocurrencies & Blockchains — key concepts and terms to know that relate to DeFi and NFTs (cryptography, proof of stake, more) by Alex Pruden and Sonal Chokshi — [a16z.com](https://a16z.com/2019/11/08/crypto-glossary/)
