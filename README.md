@@ -7,7 +7,7 @@
 
 Hayek Money: the Cryptocurrency Price Stability Solution by Ferdinando M. Ametrano (2014) — [pdf](https://poseidon01.ssrn.com/delivery.php?ID=564097067103024122099118084103009066055084000087056003103003087014072109098097114124007057116106052004021004077023014088080097103052022029022002016127092121094066088078062000016126068080094085088011114080004076080072103123098068024105099068023117025&EXT=pdf&INDEX=TRUE)
 
-A Note on Cryptocurrency Stabilisation: Seigniorage Shares by Robert Sams (2015) — [pdf](https://blog.bitmex.com/wp-content/uploads/2018/06/A-Note-on-Cryptocurrency-Stabilisation-Seigniorage-Shares.pdf)
+A Note on Cryptocurrency Stabilisation: Seigniorage Shares — next-gen cryptocurrencies should incorporate an elastic supply rule that adjust the quantity of coin supply proportionately to changes in coin market value by Robert Sams (2015) — [pdf](https://blog.bitmex.com/wp-content/uploads/2018/06/A-Note-on-Cryptocurrency-Stabilisation-Seigniorage-Shares.pdf)
 
 **2. DEX**
 
