@@ -1,3 +1,6 @@
+**Awesome DeFi NFT Repos, Researches, and Blogs**
+
+
 **DeFi**
 
 **1. Algorithmic Stable Coin**
@@ -20,7 +23,7 @@ Improved Price Oracles: Constant Function Market Makers by Guillermo Angeris and
 
 **6. Prediction Market**
 
-**DeFi Exploit and Vulnerbility**
+**Awesome Hacks**
 
 Reconstruction Exploits — [github.com](https://github.com/ethereumvex)
 
