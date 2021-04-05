@@ -12,11 +12,13 @@
 
 **6. Prediction Market**
 
-** DeFi Exploit and Vulnerbility**
+**DeFi Exploit and Vulnerbility**
 
 Reconstruction Exploits — [github.com](https://github.com/ethereumvex)
 
 Wrecking sandwich traders — [github.com](https://github.com/Defi-Cartel/salmonella)
+
+Rekt news — entertaining [rekt.eth.link](https://rekt.eth.link/)
 
 **NFT**
 
