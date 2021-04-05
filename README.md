@@ -28,7 +28,7 @@ https://github.com/Defi-Cartel/salmonella
 
 **Building Blocks & Technical Foundations**
 
-NFT metadata — on-chain, off-chain, storage, more by Devin Finzer ([opensea.io])(https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata)
+NFT metadata — on-chain, off-chain, storage, more by Devin Finzer ([opensea.io](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata))
 
 Do You Really Own Your NFT? — data storage, URLs vs IPFS, off-chain, more by Dan Kahan [thedefiant.io](https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/) 
 
