@@ -38,10 +38,9 @@ What is ERC-721? — non-technical explanation of how the original standard powe
 
 EIP-721: ERC-721 Non-Fungible Token Standard— powering unique, rare, collectible tokens on the Ethereum blockchain — [eips.ethereum.org](https://eips.ethereum.org/EIPS/eip-721)
 
-**Researchers**
+**AResearch**
 
 An analysis of Uniswap markets — [arxiv.org](https://arxiv.org/pdf/1911.03380.pdf)
-
 
 Improved Price Oracles: Constant Function Market Makers by Guillermo Angeris and Tarun Chitra — [arvix.org](https://arxiv.org/pdf/2003.10001.pdf)
 
