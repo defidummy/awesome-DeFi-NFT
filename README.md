@@ -18,7 +18,7 @@ Reconstruction Exploits — [github.com](https://github.com/ethereumvex)
 
 Wrecking sandwich traders — [github.com](https://github.com/Defi-Cartel/salmonella)
 
-Rekt news — entertaining [rekt.eth.link](https://rekt.eth.link/)
+Rekt news — dark, entertaining — [rekt.eth.link](https://rekt.eth.link/)
 
 **NFT**
 
