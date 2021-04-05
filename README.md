@@ -64,11 +64,11 @@ Tools
 Farming APY & Yield Info ]vfat.tools](https://vfat.tools/)
 
 Visual
-sandbox for web3 [youtube playlist](https://youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
+sandbox for web3 [youtube.com](https://youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 
-Stories — [youtube playlist](https://youtube.com/playlist?list=PLaDcID4s1KrqmUMJqLE9p28IyQxPYCf2B)
+Stories — [youtube.com](https://youtube.com/playlist?list=PLaDcID4s1KrqmUMJqLE9p28IyQxPYCf2B)
 
-High-level architecture overview — [youtube playlist](https://www.youtube.com/c/Finematics/videos) 
+High-level architecture overview — [youtube.com](https://www.youtube.com/c/Finematics/videos) 
 
 
 Crypto Glossary: Cryptocurrencies & Blockchains — key concepts and terms to know that relate to DeFi and NFTs (cryptography, proof of stake, more) by Alex Pruden and Sonal Chokshi — [a16z.com](https://a16z.com/2019/11/08/crypto-glossary/)
@@ -76,8 +76,8 @@ Crypto Glossary: Cryptocurrencies & Blockchains — key concepts and terms to kn
 
 source
 
-https://a16z.com/2021/04/02/nfts-readings-resources
+(a16z.com)[https://a16z.com/2021/04/02/nfts-readings-resources]
 
-https://berkeley-defi.github.io/
+(berkeley-defi.github.io)[https://berkeley-defi.github.io/]
 
 
