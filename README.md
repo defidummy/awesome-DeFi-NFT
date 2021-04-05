@@ -73,8 +73,6 @@ High-level architecture overview — [youtube.com](https://www.youtube.com/c/Fin
 
 Crypto Glossary: Cryptocurrencies & Blockchains — key concepts and terms to know that relate to DeFi and NFTs (cryptography, proof of stake, more) by Alex Pruden and Sonal Chokshi — [a16z.com](https://a16z.com/2019/11/08/crypto-glossary/)
 
-<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="ethfightclub/1386" data-width="100%"></script>
-
 source
 
 [a16z.com](https://a16z.com/2021/04/02/nfts-readings-resources/)
