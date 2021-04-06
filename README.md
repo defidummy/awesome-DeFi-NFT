@@ -26,13 +26,13 @@ Improved Price Oracles: Constant Function Market Makers by Guillermo Angeris and
 
 **Awesome Hacks and Exploits**
 
-Reconstruction Exploits — [github.com](https://github.com/ethereumvex)
+Reconstruction Exploits — [github.com/ethereumvex](https://github.com/ethereumvex)
 
-Wrecking sandwich traders — [github.com](https://github.com/Defi-Cartel/salmonella)
+Wrecking sandwich traders — [github.com/Defi-Cartel](https://github.com/Defi-Cartel/salmonella)
 
 Rekt news — dark, entertaining — [rekt.eth.link](https://rekt.eth.link/)
 
-Flashbots — MEV RnD — [github.com](https://github.com/flashbots) 
+Flashbots — MEV RnD — [github.com/flashbots](https://github.com/flashbots) 
 
 **NFT**
 
@@ -40,11 +40,11 @@ Flashbots — MEV RnD — [github.com](https://github.com/flashbots)
 
 **Building Blocks & Technical Foundations**
 
-NFT metadata — on-chain, off-chain, storage, more by Devin Finzer — [opensea.io](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata)
+NFT metadata — on-chain, off-chain, storage, more by Devin Finzer — [opensea.io/blog](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_metadata)
 
 Do You Really Own Your NFT? — data storage, URLs vs IPFS, off-chain, more by Dan Kahan — [thedefiant.io](https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/)
 
-Non-fungible token standards — from Ethereum to non-Ethereum standards by Devin Finzer — [opensea.io](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_standards)
+Non-fungible token standards — from Ethereum to non-Ethereum standards by Devin Finzer — [opensea.io/blog](https://opensea.io/blog/guides/non-fungible-tokens/#Non-fungible_token_standards)
 
 What is ERC-721? — non-technical explanation of how the original standard powering NFTs on blockchains works by William Entriken — [fulldecent.blogspot.com](https://fulldecent.blogspot.com/2018/06/nontechnical-what-is-erc-721.html)
 
@@ -56,7 +56,7 @@ Ethereum Foundation documentaion [ethereum.org](https://ethereum.org/en/develope
 
 Telegram groups and bots — [telegram](https://t.me/ethfightclub/1386)
 
-Bitmex research blog — [bitmex.com](https://blog.bitmex.com)
+Bitmex research blog — [blog.bitmex.com](https://blog.bitmex.com)
 
 Ethereum Research forum - [ethresear.ch](https://ethresear.ch/top/weekly)
 
@@ -66,7 +66,7 @@ Tools
 Farming APY & Yield Info ]vfat.tools](https://vfat.tools/)
 
 Visual
-sandbox for web3 [youtube.com/](https://youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
+sandbox for web3 [youtube.com](https://youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 
 Stories — [youtube.com/TheDefiant](https://youtube.com/playlist?list=PLaDcID4s1KrqmUMJqLE9p28IyQxPYCf2B)
 
