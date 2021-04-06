@@ -60,6 +60,7 @@ Bitmex research blog — [bitmex.com](https://blog.bitmex.com)
 
 Ethereum Research forum - [ethresear.ch](https://ethresear.ch/top/weekly)
 
+Tutorial - [github.com/eattheblocks](https://github.com/jklepatch/eattheblocks/tree/master/screencast/138-defi-programming-uniswap)
 
 Tools
 Farming APY & Yield Info ]vfat.tools](https://vfat.tools/)
